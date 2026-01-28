@@ -1,2 +1,2 @@
-# bbarabe.githob.io
+# bbarabe.github.io
 Landing page for Barabé Labs
